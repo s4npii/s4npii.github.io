@@ -2,12 +2,17 @@ project:
   type: website
 
 website:
-  title: "s4npii.github.io"
+  title: "Mirko Ruf"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - forschung.qmd
+        text: Forschung
+      - lehre.qmd
+        text: Lehre
+      - doktorarbeit.qmd
+        text: Doktorarbeit
 
 format:
   html:
