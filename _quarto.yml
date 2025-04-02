@@ -4,17 +4,28 @@ project:
 website:
   title: "Mirko Ruf"
   navbar:
+    search: true
     left:
       - href: index.qmd
-        text: Home
+        text: Über
+        menu:
+          - href: mirko.qmd
+            text: "Über mich"
+          - href: aktuelles.qmd
+            text: Aktuelles
+          - href: kontakt.qmd
+            text: Kontakt
       - href: forschung.qmd
         text: Forschung
+        menu:
+          - href: doktorarbeit.qmd
+            text: Doktorarbeit
+          - href: vortraege.qmd
+            text: Vorträge
+          - href: publikationen.qmd
+            text: Publikationen
       - href: lehre.qmd
         text: Lehre
-      - href: doktorarbeit.qmd
-        text: Doktorarbeit
-      - href: quellen.qmd
-        text: Quellen
 
 format:
   html:
@@ -23,6 +34,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
-

@@ -1,9 +1,0 @@
----
-title: "Quellen"
-format: html
-editor: visual
----
-
-Erstellung der Webseite mit Quarto in RStudio: 
-
-- [Melissa Van Bussel - Publish a Quarto project using GitHub Pages+GitHub Actions in 6 minutes](https://www.youtube.com/watch?v=arzBRW5XIkg)
