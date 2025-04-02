@@ -38,7 +38,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-8647a4a42273f773479d27c00df3f9ed.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-6bd9cfa162949bde0a231f530c97869d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -90,7 +90,7 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link" href="./index.html"> 
-<span class="menu-text">Home</span></a>
+<span class="menu-text">Über</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./forschung.html"> 
@@ -99,10 +99,6 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="./lehre.html"> 
 <span class="menu-text">Lehre</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./doktorarbeit.html"> 
-<span class="menu-text">Doktorarbeit</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./quellen.html" aria-current="page"> 
@@ -144,10 +140,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Erstellung der Webseite mit Quarto in RStudio:</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=arzBRW5XIkg">Melissa Van Bussel - Publish a Quarto project using GitHub Pages+GitHub Actions in 6 minutes</a></li>
-</ul>
+<p>das ist ein test</p>
 
 
 
@@ -242,7 +235,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/s4npii\.github\.io\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

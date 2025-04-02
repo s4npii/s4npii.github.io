@@ -1,27 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://s4npii.github.io/quellen.html</loc>
-    <lastmod>2025-04-02T11:48:27.465Z</lastmod>
+    <loc>https://s4npii.github.io/mirko.html</loc>
+    <lastmod>2025-04-02T12:03:43.685Z</lastmod>
   </url>
   <url>
-    <loc>https://s4npii.github.io/forschung.html</loc>
-    <lastmod>2025-04-02T11:48:27.465Z</lastmod>
+    <loc>https://s4npii.github.io/publikationen.html</loc>
+    <lastmod>2025-04-02T12:03:43.685Z</lastmod>
+  </url>
+  <url>
+    <loc>https://s4npii.github.io/kontakt.html</loc>
+    <lastmod>2025-04-02T12:03:43.685Z</lastmod>
+  </url>
+  <url>
+    <loc>https://s4npii.github.io/vortraege.html</loc>
+    <lastmod>2025-04-02T12:03:43.686Z</lastmod>
   </url>
   <url>
     <loc>https://s4npii.github.io/index.html</loc>
-    <lastmod>2025-04-02T11:48:27.465Z</lastmod>
+    <lastmod>2025-04-02T12:03:43.685Z</lastmod>
   </url>
   <url>
     <loc>https://s4npii.github.io/lehre.html</loc>
-    <lastmod>2025-04-02T11:48:27.465Z</lastmod>
+    <lastmod>2025-04-02T12:03:43.685Z</lastmod>
+  </url>
+  <url>
+    <loc>https://s4npii.github.io/aktuelles.html</loc>
+    <lastmod>2025-04-02T12:03:43.685Z</lastmod>
   </url>
   <url>
     <loc>https://s4npii.github.io/about.html</loc>
-    <lastmod>2025-04-02T11:48:27.465Z</lastmod>
+    <lastmod>2025-04-02T12:03:43.685Z</lastmod>
+  </url>
+  <url>
+    <loc>https://s4npii.github.io/forschung.html</loc>
+    <lastmod>2025-04-02T12:03:43.685Z</lastmod>
   </url>
   <url>
     <loc>https://s4npii.github.io/doktorarbeit.html</loc>
-    <lastmod>2025-04-02T11:48:27.465Z</lastmod>
+    <lastmod>2025-04-02T12:03:43.685Z</lastmod>
   </url>
 </urlset>
