@@ -7,12 +7,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - forschung.qmd
+      - href: forschung.qmd
         text: Forschung
-      - lehre.qmd
+      - href: lehre.qmd
         text: Lehre
-      - doktorarbeit.qmd
+      - href: doktorarbeit.qmd
         text: Doktorarbeit
+      - href: quellen.qmd
+        text: Quellen
 
 format:
   html:
