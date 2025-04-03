@@ -4,9 +4,9 @@ format: html
 editor: visual
 ---
 
-# Promotionsprojekt
+## Promotionsprojekt
 
-# Vorträge
+## Vorträge
 
 | Datum | Titel | Ort | Folien |
 |------------|--------------------|--------------------|--------------------|
@@ -14,4 +14,4 @@ editor: visual
 |  |  |  |  |
 |  |  |  |  |
 
-# Publikationen
+## Publikationen
