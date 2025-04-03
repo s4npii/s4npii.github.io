@@ -35,10 +35,17 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "forschung.html",
-    "href": "forschung.html",
+    "objectID": "forschung.html#vorträge",
+    "href": "forschung.html#vorträge",
     "title": "Forschung",
-    "section": "",
-    "text": "Promotionsprojekt\n\n\nVorträge\n\n\n\nDatum\nTitel\nOrt\nFolien\n\n\n\n\n04.04.2025\nMediation in Foreign Language Education\nLiverpool Hope University\nPräsentation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublikationen"
+    "section": "Vorträge",
+    "text": "Vorträge\n\n\n\nDatum\nTitel\nOrt\nFolien\n\n\n\n\n04.04.2025\nMediation in Foreign Language Education\nLiverpool Hope University\nPräsentation"
+  },
+  {
+    "objectID": "forschung.html#publikationen",
+    "href": "forschung.html#publikationen",
+    "title": "Forschung",
+    "section": "Publikationen",
+    "text": "Publikationen"
   }
 ]
