@@ -1,6 +1,5 @@
 ---
-title: "doktorarbeit"
+title: "Doktorarbeit"
 format: html
 editor: visual
 ---
-

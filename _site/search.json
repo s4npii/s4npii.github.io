@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Mirko Ruf",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -14,10 +7,24 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "quellen.html",
-    "href": "quellen.html",
-    "title": "Quellen",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mirko Ruf",
     "section": "",
-    "text": "das ist ein test"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "kontakt.html",
+    "href": "kontakt.html",
+    "title": "Kontakt",
+    "section": "",
+    "text": "m.ruf@uni-koeln.de"
+  },
+  {
+    "objectID": "forschung.html",
+    "href": "forschung.html",
+    "title": "Forschung",
+    "section": "",
+    "text": "Promotionsprojekt\n\n\nVorträge\n\n\n\nDatum\nTitel\nOrt\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublikationen"
   }
 ]

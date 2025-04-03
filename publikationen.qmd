@@ -1,6 +1,9 @@
 ---
-title: "publikationen"
+title: "Publikationen"
 format: html
 editor: visual
 ---
 
+::: callout-note
+Seite im Aufbau
+:::

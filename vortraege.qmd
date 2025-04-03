@@ -1,6 +1,5 @@
 ---
-title: "vortraege"
+title: "Vorträge"
 format: html
 editor: visual
 ---
-

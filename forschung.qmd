@@ -1,6 +1,17 @@
 ---
-title: "forschung"
+title: "Forschung"
 format: html
 editor: visual
 ---
 
+# Promotionsprojekt
+
+# Vorträge
+
+| Datum | Titel | Ort |
+|----|----------|-----|
+|04.04.2025 | Mediation      |     |
+|    |       |     |
+|    |       |     |
+
+# Publikationen
