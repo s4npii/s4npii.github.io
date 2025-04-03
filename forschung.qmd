@@ -8,10 +8,10 @@ editor: visual
 
 # Vorträge
 
-| Datum | Titel | Ort |
-|----|----------|-----|
-|04.04.2025 | Mediation      |     |
-|    |       |     |
-|    |       |     |
+| Datum | Titel | Ort | Folien |
+|------------|--------------------|--------------------|--------------------|
+| 04.04.2025 | *Mediation in Foreign Language Education* | Liverpool Hope University | [Präsentation](docs/2025-04-04-Mediation.html) |
+|  |  |  |  |
+|  |  |  |  |
 
 # Publikationen
